@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Joe Dziekan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Junior mechanical engineering student."
   location         : "Madison, WI"
   email            :
