@@ -1,2 +1,0 @@
-# joedziekan.github.io
-Portfolio
