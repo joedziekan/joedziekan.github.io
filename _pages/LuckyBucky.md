@@ -4,7 +4,7 @@ permalink: /Rocketry/
 title: "Rocketry Posts by Tags"
 author_profile: true
 header:
-  image: "/images/seattle.jpg"
+  image: "/images/rocket.jpg"
 ---
 
 {% include base_path %}
