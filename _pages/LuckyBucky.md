@@ -2,7 +2,7 @@
 layout: archive
 permalink: /Portfolio/
 title: "Projects"
-author_profile: true
+author_profile: false
 header:
   image: "/images/rocket.jpg"
 ---
