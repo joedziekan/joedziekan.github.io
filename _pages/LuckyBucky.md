@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /Rocketry/
-title: "Rocketry Posts by Tags"
+permalink: /Portfolio/
+title: "Posts by Tags"
 author_profile: true
 header:
   image: "/images/rocket.jpg"
