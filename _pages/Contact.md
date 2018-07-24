@@ -8,4 +8,4 @@ header:
 ---
 Hello
 
-[link](joedziekan14@gmail.com)
+[joedziekan14@gmail.com](mailto:joedziekan14@gmail.com)
