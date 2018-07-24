@@ -5,3 +5,4 @@ tages: [rocketry, machining]
 header:
   image: "/images/Lucky Bucky.jpg"
 excerpt: "Rocketry, Lucky Bucky, AIAA"
+---
