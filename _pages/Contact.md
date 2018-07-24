@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /Contact/
-title: "Contact"
+title: "    Hello"
 author_profile: false
 header:
   image: "/images/art.jpg"
