@@ -1,6 +1,8 @@
 ---
-title: "Contact"
+layout: archive
 permalink: /Contact/
+title: "Contact"
+author_profile: false
 header:
   image: "/images/art.jpg"
 ---
