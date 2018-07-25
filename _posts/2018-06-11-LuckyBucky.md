@@ -12,5 +12,5 @@ excerpt: "1st place in Wisconsin and 6th overall out of 14 teams"
 *Avionics Bay*
 
 I used a dremel tool and fast reacting epoxy to machine and assemble the avionics bay. This mounting fixture was machined within tolerance to allow a tight fit into the rockets body.
- 
-<img src="{{ site.url }}{{ site.baseurl }}/images/avionics/linsep.jpg" alt="Avionics Bay">
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/avionics.jpg" alt="Avionics Bay">
