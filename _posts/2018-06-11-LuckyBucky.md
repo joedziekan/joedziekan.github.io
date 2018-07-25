@@ -20,3 +20,7 @@ I used a dremel tool and fast reacting epoxy to machine and assemble the avionic
 As seen in the main image, the rocket was mounted on a rod with bearings to allow the rocket to roll  as the fins are deflected. I turned this rod down to tolerance on a lathe to snuggly fit the ball bearings, allowing accurate testing data to be collected.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/rod.jpg" alt="Rod">
+
+*Video Of Rocket Launch*
+
+<iframe src="https://www.youtube.com/watch?v=cwjTEdIajFY" width="560" height="315" frameborder="0"> </iframe>
