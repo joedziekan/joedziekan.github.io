@@ -4,7 +4,7 @@ date: 2018-06-10
 tags: [rocketry]
 author_profile: false
 header:
-  image: "/images/lucky bucky.jpg"
+  image: "/images/Lucky Bucky2.jpg"
 excerpt: "1st place in Wisconsin and 6th overall out of 14 teams"
 ---
 **Machining**
