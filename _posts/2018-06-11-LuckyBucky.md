@@ -4,7 +4,7 @@ date: 2018-06-10
 tags: [rocketry]
 author_profile: false
 header:
-  image: "/images/Lucky Bucky.jpg"
+  image: "/images/bucky.jpg"
 excerpt: "1st place in Wisconsin and 6th overall out of 14 teams"
 ---
 **Machining**
@@ -14,6 +14,7 @@ excerpt: "1st place in Wisconsin and 6th overall out of 14 teams"
 I used a dremel tool and fast reacting epoxy to machine and assemble the avionics bay. This mounting fixture was machined within tolerance to allow a tight fit into the rockets body.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/avionics.jpg" alt="Avionics Bay">
+
 
 *Wind Tunnel Testing Fixture Rod*
 
