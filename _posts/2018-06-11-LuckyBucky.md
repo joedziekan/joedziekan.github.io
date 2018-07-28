@@ -23,4 +23,4 @@ As seen in the main image, the rocket was mounted on a rod with bearings to allo
 
 *Video Of Rocket Launch*
 
-<iframe src="https://www.youtube.com/watch?v=cwjTEdIajFY" width="560" height="315" frameborder="0"> </iframe>
+<iframe src="https://www.youtube.com/embed/cwjTEdIajFY" width="560" height="315" frameborder="0"> </iframe>
