@@ -4,7 +4,7 @@ date: 2018-06-10
 tags: [Engineering Experience]
 author_profile: false
 header:
-  image: "/images/rocket2.0.jpg"
+  image: "/images/bucky.jpg"
 excerpt: "1st place in Wisconsin and 6th overall out of 14 teams"
 ---
 **Machining**
@@ -18,7 +18,7 @@ I used a dremel tool and fast reacting epoxy to machine and assemble the avionic
 
 *Wind Tunnel Testing Fixture Rod*
 
-As seen in the main image, the rocket was mounted on a rod with bearings to allow the rocket to roll  as the fins are deflected. I turned this rod down to tolerance on a lathe to snuggly fit the ball bearings, allowing accurate testing data to be collected.
+As seen in the main image, the rocket was mounted on a rod with bearings to allow the rocket to roll as the fins are deflected. I turned this rod down to tolerance on a lathe to snuggly fit the ball bearings, allowing accurate testing data to be collected.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/rod.jpg" alt="Rod">
 
