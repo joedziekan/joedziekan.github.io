@@ -7,3 +7,9 @@ header:
   image: "/images/FME.jpg"
 excerpt: "Research and Development Intern"
 ---
+
+**Failure analysis and redesign of emissions testing probe**
+
+*Situation*
+
+Prior to my internship at Fairbanks Morse Engine, I
