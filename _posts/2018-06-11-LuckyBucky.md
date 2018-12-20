@@ -4,7 +4,7 @@ date: 2018-06-10
 tags: [Engineering Experience]
 author_profile: false
 header:
-  image: "/images/rocket2.0.jpg"
+  image: "/images/rocket3.0.jpg"
 excerpt: "1st place in Wisconsin and 6th overall out of 14 teams"
 ---
 **Machining**
