@@ -13,7 +13,7 @@ I worked in the Research and Development department on projects directly related
 
 **Failure analysis and redesign of emissions testing probe**
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/probe.jpg" alt="Outline">
+<img src="{{ site.url }}{{ site.baseurl }}/images/probe.png" alt="Outline">
 
 *Situation*
 
