@@ -1,5 +1,5 @@
 ---
-title: "Fairbanks Morse Engine Internship Project 2 June-August 2018"
+title: "Fairbanks Morse Engine Internship June-August 2018"
 date: 2018-08-28
 tags: [Engineering Experience]
 author_profile: false
@@ -28,7 +28,7 @@ The engine startup time (190 seconds) is limited by the pressure experienced by 
 *Action*
 
 I began with an analysis of the idler shaft during power transmission to determine the boundary conditions caused when the engine was running. The shaft was conceptualized to undergo consisted loading once the engine was idling.
-Test
+
 
 
 *Results*
