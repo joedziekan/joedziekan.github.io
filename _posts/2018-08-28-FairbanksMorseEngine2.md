@@ -17,7 +17,7 @@ I worked in the Research and Development department on projects directly related
 
 The engine startup time (190 seconds) is limited by the pressure experienced by the lubrication oil pump. The lubrication oil is thicker at the heater temperature initially so the engine needs more time to warm up the oil to decrease its viscosity. However, the pressure limit is in place to prevent the lubrication oil idler shaft (as seen below) from shearing due to immense stress. There has been a history of failures in these shafts and the Research and Development team at FME wanted to know if the shaft can be pushed past the pressure limits put in place without failing in order to achieve an engine startup time of 30 seconds.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/shaft.png" alt="Outline">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Shaft.png" alt="Outline">
 
 *Task*
 
