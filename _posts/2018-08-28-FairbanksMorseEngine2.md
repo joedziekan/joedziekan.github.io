@@ -33,8 +33,4 @@ In addition to the idler shaft, the reduced startup time of the engine could als
 
 *Result*
 
-The Research and Development team at Fairbanks Morse Engine have recommendations to improve the design of the crankshaft gear, and water pump shafts. Also, the idler shaft was ruled out as a potential failure and fatigue tested to confirm this. Therefore, the idler shaft was found to not need a redesign. The crankshaft gear and water pump design changes will help the R&D team create slight changes that will allow them to reduce the startup speed from 190 to 30 seconds. This faster startup time will give Fairbanks Morse Engine a competitive advantage and help increase the sales of these multimillion dollar engines. 
-
-
-
-*Results*
+The Research and Development team at Fairbanks Morse Engine have recommendations to improve the design of the crankshaft gear, and water pump shafts. Also, the idler shaft was ruled out as a potential failure and fatigue tested to confirm this. Therefore, the idler shaft was found to not need a redesign. The crankshaft gear and water pump design changes will help the R&D team create slight changes that will allow them to reduce the startup speed from 190 to 30 seconds. This faster startup time will give Fairbanks Morse Engine a competitive advantage and help increase the sales of these multimillion dollar engines.
